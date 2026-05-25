@@ -1,6 +1,3 @@
-## Perfect! Now Here's the Complete README with Images! 🏆
-
-Go to **README.md** → Click **pencil ✏️** → Delete everything → Paste this:
 
 ```markdown
 # DevelopersHub Advanced Data Science Internship
