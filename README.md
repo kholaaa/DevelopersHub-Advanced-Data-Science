@@ -1,5 +1,4 @@
- 
-```markdown
+
 # DevelopersHub Advanced Data Science Internship
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
